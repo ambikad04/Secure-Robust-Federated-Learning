@@ -1,0 +1,15 @@
+python generate_clients_dataset.py --dataset domainnet --domain quickdraw --type noiid_lbldir --clients 58 --start-idx 0
+python generate_clients_dataset.py --dataset domainnet --domain clipart --type noiid_lbldir --clients 16 --start-idx 58
+python generate_clients_dataset.py --dataset domainnet --domain infograph --type noiid_lbldir --clients 17 --start-idx 74
+python generate_clients_dataset.py --dataset domainnet --domain painting --type noiid_lbldir --clients 26 --start-idx 91
+python generate_clients_dataset.py --dataset domainnet --domain real --type noiid_lbldir --clients 59 --start-idx 117
+python generate_clients_dataset.py --dataset domainnet --domain sketch --type noiid_lbldir --clients 24 --start-idx 176
+
+
+total samples = 586575
+clipart = 48129, clients = 16.41017773 = 16
+infograph = 51605, clients = 17.59536291 = 17
+painting = 75759, clients = 25.83096791 = 26
+quickdraw = 172500, clients = 58.816 = 58
+real = 172947, clients = 58.96841876 = 59
+sketch = 70386, clients = 23.99897711 = 24

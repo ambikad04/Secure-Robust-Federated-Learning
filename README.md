@@ -1,7 +1,7 @@
 # Secure Robust Federated Learning
 
 
-FedVer is a robust and efficient federated learning framework that implements various aggregation strategies and defense mechanisms against potential attacks. The framework is designed to achieve high accuracy while maintaining privacy and security in distributed learning scenarios.
+Secure-Robust-Federated-Learning is a robust and efficient federated learning framework that implements various aggregation strategies and defense mechanisms against potential attacks. The framework is designed to achieve high accuracy while maintaining privacy and security in distributed learning scenarios.
 
 ## Features
 
@@ -34,8 +34,8 @@ FedVer is a robust and efficient federated learning framework that implements va
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FedVer.git
-cd FedVer
+git clone https://github.com/ambikad04/Secure-Robust-Federated-Learning.git
+cd Secure-Robust-Federated-Learning
 ```
 
 2. Install dependencies:
@@ -125,10 +125,6 @@ The framework achieves high accuracy while maintaining robustness:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
